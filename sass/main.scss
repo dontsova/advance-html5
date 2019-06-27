@@ -14,8 +14,11 @@
 @import "components/feature-box";
 @import "components/form";
 @import "components/story";
+@import "components/popup";
 
-@import "layout/header";
+@import "layout/footer";
 @import "layout/grid";
+@import "layout/header";
+@import "layout/navigation.scss";
 
 @import "pages/home";
